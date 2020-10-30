@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-opcua": "^2.22.0",
+    "node-telegram-bot-api": "^0.50.0"
+  }
+}
